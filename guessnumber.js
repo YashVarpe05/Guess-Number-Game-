@@ -1,5 +1,5 @@
 const prompt = require("prompt-sync")();
-
+//declaration section 
 console.log("***** WELCOME TO THE GUESS NUMBER GAME *****");
 let random = Math.floor(Math.random() * 100 + 1);
 let num;
