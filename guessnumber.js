@@ -1,5 +1,5 @@
 const prompt = require("prompt-sync")();
-// Sync the prompt to use prompt in vs code
+
 console.log("***** WELCOME TO THE GUESS NUMBER GAME *****");
 // initialize the computer randomizer
 let random = Math.floor(Math.random() * 100 + 1);
