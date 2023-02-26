@@ -10,7 +10,7 @@ let count = 0;
 random = Number.parseInt(random);
 num = Number.parseInt(num);
 
-// taking user input
+// taking user input for user
 players = prompt("Enter the Name  of player :");
 num = prompt("Guess a Number  : ");
 
